@@ -5,7 +5,7 @@ This project uses a Deep deterministic Policy Gradient to estimating the optimum
 
 <br />
 <br />
-<p align="center"><img src="https://github.com/TheOnceAndFutureSmalltalker/deep_q_learning_navigation/blob/master/images/environment.JPG" width="400px" /> </p>
+<p align="center"><img src="https://github.com/TheOnceAndFutureSmalltalker/deep_deterministic_policy_gradient/blob/master/images/reacher.gif" width="400px" /> </p>
 <p align="center"><b>Simulated Environment of Yellow and Blue Bananas</b></p>
 
 
